@@ -17,3 +17,17 @@
 **Response includes:** Severity Level | Detection Signs | Immediate Containment | Recovery Steps | Evidence Collection | Tooling | Escalation Guidance
 
 **Security Design Principles Demonstrated:** Controlled LLM scope enforcement | Structured knowledge retrieval |Incident classification logic |Operational workflow automation | Clear escalation modeling
+
+## Screenshots
+
+### Workflow Architecture
+![Workflow](workflow.png)
+
+### Knowledge Base Structure
+![Knowledge Base](knowledge_base_setup.png)
+
+### Table Structure
+![Table](incident_response_playbook_table.png)
+
+### Demo Response Example
+![Demo](zero_day_exploit_response.png)
